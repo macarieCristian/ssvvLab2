@@ -3,6 +3,7 @@ package Service;
 import Domain.Student;
 import Repository.StudentRepo;
 import Validator.StudentValidator;
+import Validator.ValidationException;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -18,16 +19,16 @@ public class RepositoryStudentTest {
 
     @Before
     public void setUp() throws Exception {
-        studentRepo.save(new Student("11","name",111, "email@gmail.com", "prof"));
+//        studentRepo.save(new Student("11","name",111, "email@gmail.com", "prof"));
     }
 
     @Test
     public void addStudentTest() {
-        assert 1 == 1;
-//        System.out.println(StreamSupport.stream(studentRepo.findAll().spliterator(), false).count());
-//        assert StreamSupport.stream(studentRepo.findAll().spliterator(), false).count() == 4;
-//        studentRepo.save(new Student("13","name",111, "email@gmail.com", "prof"));
-//        assert StreamSupport.stream(studentRepo.findAll().spliterator(), false).count() == 4;
+        try {
+            studentRepo.save(new Student("19","name",112, "email@gmail.com", "prof"));
+        } catch (ValidationException e) {
+            fail();
+        }
     }
 
     @Test
