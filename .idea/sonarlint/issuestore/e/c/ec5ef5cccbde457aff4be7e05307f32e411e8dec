@@ -1,4 +1,4 @@
 
-Osquid:S1854"5Remove this useless assignment to local variable "m".(”œ Ïşÿÿÿÿ
-usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(š£•×úÿÿÿÿ
-:squid:S2129" Remove this "String" constructor(”œ Ïşÿÿÿÿ
+Vsquid:S1854"5Remove this useless assignment to local variable "m".(”œ Ïşÿÿÿÿ8Ì´Ö™-
+|squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(š£•×úÿÿÿÿ8Ì´Ö™-
+Asquid:S2129" Remove this "String" constructor(”œ Ïşÿÿÿÿ8Ì´Ö™-
