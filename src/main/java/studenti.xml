@@ -6,11 +6,23 @@
         <mail>email@gmail.com</mail>
         <profesor>prof</profesor>
     </Student>
+    <Student idStudent="0">
+        <nume>name</nume>
+        <grupa>112</grupa>
+        <mail>email@gmail.com</mail>
+        <profesor>prof</profesor>
+    </Student>
     <Student idStudent="1">
         <nume>Roman Ionut</nume>
         <grupa>222</grupa>
         <mail>riir3478@scs.ubbcluj.ro</mail>
         <profesor>Plesu Andrei</profesor>
+    </Student>
+    <Student idStudent="111">
+        <nume>name</nume>
+        <grupa>111</grupa>
+        <mail>email@gmail.com</mail>
+        <profesor>prof</profesor>
     </Student>
     <Student idStudent="2">
         <nume>Gorea Andra</nume>
@@ -18,9 +30,39 @@
         <mail>gaie1234@scs.ubbcluj.ro</mail>
         <profesor>Lovin Andrei</profesor>
     </Student>
+    <Student idStudent="124">
+        <nume>a</nume>
+        <grupa>112</grupa>
+        <mail>email@gmail.com</mail>
+        <profesor>prof</profesor>
+    </Student>
+    <Student idStudent="117">
+        <nume>name</nume>
+        <grupa>117</grupa>
+        <mail>email@gmail.com</mail>
+        <profesor>prof</profesor>
+    </Student>
+    <Student idStudent="128">
+        <nume>name</nume>
+        <grupa>112</grupa>
+        <mail>mihai@yahoo.com</mail>
+        <profesor>'''''</profesor>
+    </Student>
     <Student idStudent="19">
         <nume>name</nume>
         <grupa>112</grupa>
+        <mail>email@gmail.com</mail>
+        <profesor>prof</profesor>
+    </Student>
+    <Student idStudent="9999">
+        <nume>name</nume>
+        <grupa>112</grupa>
+        <mail>email@gmail.com</mail>
+        <profesor>prof</profesor>
+    </Student>
+    <Student idStudent="937">
+        <nume>name</nume>
+        <grupa>937</grupa>
         <mail>email@gmail.com</mail>
         <profesor>prof</profesor>
     </Student>
