@@ -15,4 +15,9 @@
         <deadline>12</deadline>
         <sapt_primire>12</sapt_primire>
     </Tema>
+    <Tema nr="5">
+        <descriere>Hello</descriere>
+        <deadline>7</deadline>
+        <sapt_primire>6</sapt_primire>
+    </Tema>
 </Teme>

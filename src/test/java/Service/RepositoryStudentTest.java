@@ -226,4 +226,6 @@ public class RepositoryStudentTest {
     public void findStudentTest() {
         assert studentRepo.findOne("11").getNume().equals("name");
     }
+
+
 }
