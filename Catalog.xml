@@ -22,3 +22,11 @@
         <valoare>5.5</valoare>
     </Nota>
 </Note>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Note>
+    <Nota idNota="Alex1">
+        <nume>name</nume>
+        <nr>5</nr>
+        <valoare>5.5</valoare>
+    </Nota>
+</Note>

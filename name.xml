@@ -28,3 +28,13 @@
         <feedback>Elevul a invatat bine</feedback>
     </Nota>
 </Note>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Note>
+    <Nota idNota="Alex1">
+        <nr>5</nr>
+        <valoare>5.5</valoare>
+        <predat>5</predat>
+        <deadline>7</deadline>
+        <feedback>Elevul a invatat bine</feedback>
+    </Nota>
+</Note>
