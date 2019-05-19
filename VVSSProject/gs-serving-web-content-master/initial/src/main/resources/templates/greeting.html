@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<h1>Add Student</h1>
+<form action="#" th:action="@{/greeting}" th:object="${greeting}" method="post">
+    <p>Id: <input type="text" th:field="*{id}" /></p>
+    <p>Nume: <input type="text" th:field="*{nume}" /></p>
+    <p>Grupa: <input type="text" th:field="*{grupa}" /></p>
+    <p>Email: <input type="text" th:field="*{email}" /></p>
+    <p>Profesor: <input type="text" th:field="*{profesor}" /></p>
+    <p><input type="submit" value="Submit" /> <input type="reset" value="Reset" /></p>
+</form>
+</body>
+</html>

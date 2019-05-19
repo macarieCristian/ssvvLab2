@@ -1,0 +1,131 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="htmlId">
+<head>
+  <title>Coverage Report :: ServiceStudent</title>
+  <style type="text/css">
+    @import "../../.css/coverage.css";
+  </style>
+</head>
+
+<body>
+<div class="header"></div>
+
+<div class="content">
+<div class="breadCrumbs">
+    [ <a href="../../index.html">all classes</a> ]
+    [ <a href="../index.html">Service</a> ]
+</div>
+
+<h1>Coverage Summary for Class: ServiceStudent (Service)</h1>
+
+<table class="coverageStats">
+<tr>
+  <th class="name">Class</th>
+<th class="coverageStat 
+">
+  Class, %
+</th>
+<th class="coverageStat 
+">
+  Method, %
+</th>
+<th class="coverageStat 
+">
+  Line, %
+</th>
+</tr>
+<tr>
+  <td class="name">ServiceStudent</td>
+<td class="coverageStat">
+  <span class="percent">
+    0%
+  </span>
+  <span class="absValue">
+    (0/ 1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    0%
+  </span>
+  <span class="absValue">
+    (0/ 6)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    0%
+  </span>
+  <span class="absValue">
+    (0/ 6)
+  </span>
+</td>
+</tr>
+
+</table>
+
+<br/>
+<br/>
+
+
+<div class="sourceCode"><i>1</i>&nbsp;package Service;
+<i>2</i>&nbsp;
+<i>3</i>&nbsp;import Domain.Student;
+<i>4</i>&nbsp;import Repository.StudentRepo;
+<i>5</i>&nbsp;
+<i>6</i>&nbsp;public class ServiceStudent {
+<i>7</i>&nbsp;    private StudentRepo rep;
+<b class="nc"><i>8</i>&nbsp;    public ServiceStudent(StudentRepo rep){this.rep=rep;}</b>
+<i>9</i>&nbsp;    /**
+<i>10</i>&nbsp;     * Adauga student
+<i>11</i>&nbsp;     * Returneaza studentul adaugat*/
+<i>12</i>&nbsp;    public Student add(Student s){
+<b class="nc"><i>13</i>&nbsp;        return rep.save(s);</b>
+<i>14</i>&nbsp;    }
+<i>15</i>&nbsp;    /***
+<i>16</i>&nbsp;     * Sterge student
+<i>17</i>&nbsp;     * @param id
+<i>18</i>&nbsp;     * @return studentul sters
+<i>19</i>&nbsp;     */
+<i>20</i>&nbsp;    public Student del(String id){
+<b class="nc"><i>21</i>&nbsp;        return rep.delete(id);</b>
+<i>22</i>&nbsp;    }
+<i>23</i>&nbsp;
+<i>24</i>&nbsp;    /***
+<i>25</i>&nbsp;     * Modifica student
+<i>26</i>&nbsp;     * @param s
+<i>27</i>&nbsp;     * @return noul student
+<i>28</i>&nbsp;     */
+<i>29</i>&nbsp;    public Student mod(Student s){
+<b class="nc"><i>30</i>&nbsp;        return rep.update(s);</b>
+<i>31</i>&nbsp;    }
+<i>32</i>&nbsp;
+<i>33</i>&nbsp;    /***
+<i>34</i>&nbsp;     * Cauta student dupa id
+<i>35</i>&nbsp;     * @param id
+<i>36</i>&nbsp;     * @return studentul gasit
+<i>37</i>&nbsp;     */
+<i>38</i>&nbsp;    public Student find(String id){
+<b class="nc"><i>39</i>&nbsp;        return rep.findOne(id);</b>
+<i>40</i>&nbsp;    }
+<i>41</i>&nbsp;
+<i>42</i>&nbsp;    /***
+<i>43</i>&nbsp;     * @return studentii
+<i>44</i>&nbsp;     */
+<i>45</i>&nbsp;    public Iterable&lt;Student&gt; all(){
+<b class="nc"><i>46</i>&nbsp;        return rep.findAll();</b>
+<i>47</i>&nbsp;    }
+<i>48</i>&nbsp;}
+</div>
+</div>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2019-04-15 10:17</div>
+</div>
+</body>
+</html>

@@ -29,3 +29,9 @@ J
 ssvvLab2.iml,b\8\b89296419cc39751c89ed647175a1cdbb0e0a54e
 `
 0src/test/java/Service/RepositoryStudentTest.java,7\f\7f021a548aa2d970b27716901d4e7806f64354dd
+V
+&src/main/java/Service/ServiceTeme.java,a\e\aec122e6a27fe98225dc251dcb26ce453fcff49c
+N
+src/main/java/Domain/Teme.java,b\5\b54bcca56b763c1b5381f4704515e4f4311701bc
+V
+&src/main/java/Repository/TemeRepo.java,3\a\3a40b47c7eb88ae37ba043a32ff24b79b6e9ae8e

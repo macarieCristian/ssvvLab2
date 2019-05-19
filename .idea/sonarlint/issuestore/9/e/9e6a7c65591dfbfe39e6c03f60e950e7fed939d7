@@ -1,0 +1,88 @@
+
+qsquid:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(õƒ—’
+gsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(üªÇæùÿÿÿÿ
+gsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+bsquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(±Öò€
+gsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿË Ãúÿÿÿÿ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(Þ®ô6
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(•ªÊÁ
+N
+squid:S106 "9Replace this use of System.out or System.err by a logger.(žÓÖt
+O
+squid:S106!"9Replace this use of System.out or System.err by a logger.(“¥®¬
+O
+squid:S106""9Replace this use of System.out or System.err by a logger.(¿‡Û
+O
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ÇªûÜ
+O
+squid:S106$"9Replace this use of System.out or System.err by a logger.(°©óØ
+O
+squid:S106%"9Replace this use of System.out or System.err by a logger.(Ô§ïØ
+N
+squid:S106&"9Replace this use of System.out or System.err by a logger.(¢æ«$
+T
+squid:S106*"9Replace this use of System.out or System.err by a logger.(¼÷Èõþÿÿÿÿ
+T
+squid:S106-"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ
+O
+squid:S1060"9Replace this use of System.out or System.err by a logger.(Žï×Å
+T
+squid:S1062"9Replace this use of System.out or System.err by a logger.(í˜Ëþþÿÿÿÿ
+T
+squid:S1064"9Replace this use of System.out or System.err by a logger.(êÍ²ˆøÿÿÿÿ
+T
+squid:S1067"9Replace this use of System.out or System.err by a logger.(Š‘Ðµþÿÿÿÿ
+O
+squid:S1069"9Replace this use of System.out or System.err by a logger.(½žúÕ
+O
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ö¬
+T
+squid:S106F"9Replace this use of System.out or System.err by a logger.(‚›òÇùÿÿÿÿ
+T
+squid:S106I"9Replace this use of System.out or System.err by a logger.(Îáêÿÿÿÿÿ
+O
+squid:S106K"9Replace this use of System.out or System.err by a logger.(äØðƒ
+T
+squid:S106N"9Replace this use of System.out or System.err by a logger.(§ªª‚üÿÿÿÿ
+O
+squid:S106W"9Replace this use of System.out or System.err by a logger.(ö¬
+O
+squid:S106["9Replace this use of System.out or System.err by a logger.(¼ëžÓ
+O
+squid:S106`"9Replace this use of System.out or System.err by a logger.(›ÃØà
+T
+squid:S106c"9Replace this use of System.out or System.err by a logger.(ÚÅÝ·ÿÿÿÿÿ
+T
+squid:S106d"9Replace this use of System.out or System.err by a logger.(Çõ‹øÿÿÿÿ
+O
+squid:S106g"9Replace this use of System.out or System.err by a logger.(›ÃØà
+T
+squid:S106i"9Replace this use of System.out or System.err by a logger.(í˜Ëþþÿÿÿÿ
+T
+squid:S106k"9Replace this use of System.out or System.err by a logger.(êÍ²ˆøÿÿÿÿ
+T
+squid:S106n"9Replace this use of System.out or System.err by a logger.(Š‘Ðµþÿÿÿÿ
+O
+squid:S106p"9Replace this use of System.out or System.err by a logger.(½žúÕ
+N
+squid:S106v"9Replace this use of System.out or System.err by a logger.(‰¦îC
+T
+squid:S106z"9Replace this use of System.out or System.err by a logger.(ÁíëÁúÿÿÿÿ
+O
+squid:S106|"9Replace this use of System.out or System.err by a logger.(Ë„ÇÂ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëÚžÓþÿÿÿÿ
+U
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(¸óËüüÿÿÿÿ
+U
+squid:S106…"9Replace this use of System.out or System.err by a logger.(ùÄ™Öúÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã¹×Àüÿÿÿÿ
+P
+squid:S106’"9Replace this use of System.out or System.err by a logger.(ö¬
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(ö““›
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁÕŒüÿÿÿÿ
